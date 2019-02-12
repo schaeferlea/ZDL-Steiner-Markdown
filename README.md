@@ -13,7 +13,7 @@ Händisch muss noch nachbearbeitet werden:
 
 * Grafiken float-Umgebung
 * Refrenzen zu glossierten Beispielen funktioniert über den Filter pangloss nur bei PDF und HTML Export
-* Unschöne Lösung für Kapiälchen: Autornamen mit \textsc{} in der .bib-Datei auszeichnen
+* Unschöne Lösung für Kapitälchen: Autornamen mit \textsc{} in der .bib-Datei auszeichnen
 
 
 
